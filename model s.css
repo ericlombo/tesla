@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.banner{
+    width: 0%;
+    height: 0%;
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Model-S-Main-Hero-Desktop-LHD)
+}
+.banner{
+    background-position: center;
+    background-size: cover;
+    display: flex;
+}
+.navbars{
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin: auto;
+}
